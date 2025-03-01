@@ -10,5 +10,6 @@
 
 1. Install [Poetry](https://python-poetry.org/)
 2. Clone this repository and `cd` into it
-3. Run `poetry install`
-4. The experiments can be executed using the scripts located in the `scripts` folder
+3. Install the dependencies using the command `poetry install`
+4. Activate the newly created virtual environment using `poetry shell`
+5. The experiments can be executed using the scripts located in the `scripts` folder
