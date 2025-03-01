@@ -1,0 +1,38 @@
+[tool.poetry]
+name = "explainable-llms"
+version = "0.1.0"
+description = ""
+authors = ["Vojtech Cahlik <vojtech@cahlik.net>"]
+readme = "README.md"
+
+[[tool.poetry.source]]
+name = "pytorch"
+url = "https://download.pytorch.org/whl/cu124"
+priority = "explicit"
+
+[tool.poetry.dependencies]
+python = "~3.11"
+pandas = "^2.2.2"
+datasets = "^2.21.0"
+seaborn = "^0.13.2"
+scikit-learn = "^1.5.1"
+xformers = {version = "*", source = "pytorch"}
+trl = "^0.13"
+accelerate = {version = "^0.34.2", extras = ["unsloth"]}
+peft = {version = "^0.12.0", extras = ["unsloth"]}
+bitsandbytes = {version = "^0.43.3", extras = ["unsloth"]}
+ipykernel = "^6.29.5"
+pytest = "^8.3.3"
+pre-commit = "^4.0.1"
+unsloth = "2025.1.8"
+ipywidgets = "^8.1.5"
+setuptools = "^75.7.0"
+simplejson = "^3.19.3"
+unsloth-zoo = "2025.1.5"
+
+[tool.poetry.extras]
+unsloth = ["unsloth", "xformers"]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
