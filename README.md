@@ -19,5 +19,3 @@
 * [Logistic regression datasets](https://drive.google.com/file/d/1reU1v5DQGVMhFS8Or1RW87rdTwrGr6jK/view?usp=sharing) (in the paper, the dataset n_inputs_2_depth_6/dataset_0 was used; the actual tree depths are deeper by 1 than what is stated in the dataset name)
 * [Decision tree datasets](https://drive.google.com/file/d/16qJHCcmJJMQXNky059h__Hxmz8vogKWr/view?usp=sharing) (in the paper, the dataset n_inputs_8/dataset_0 was used)
 * [Natural language decision tree dataset](https://drive.google.com/file/d/1teOGNq8_wfcC0FhDtnQ0sZC7HkAWrqb8/view?usp=sharing)
-
-In the main experiments in the paper, the 
