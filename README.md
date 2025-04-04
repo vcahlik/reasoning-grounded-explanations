@@ -19,3 +19,17 @@
 * [Logistic regression datasets](https://drive.google.com/file/d/1reU1v5DQGVMhFS8Or1RW87rdTwrGr6jK/view?usp=sharing) (in the paper, n_inputs_8/dataset_0 was used)
 * [Decision tree datasets](https://drive.google.com/file/d/16qJHCcmJJMQXNky059h__Hxmz8vogKWr/view?usp=sharing) (in the paper, n_inputs_2_depth_6/dataset_0 was used; the actual tree depths are deeper by 1 than what is stated in the dataset name)
 * [Natural language decision tree dataset](https://drive.google.com/file/d/1teOGNq8_wfcC0FhDtnQ0sZC7HkAWrqb8/view?usp=sharing)
+
+## Citing
+
+In case you find this repository or datasets helpful, feel free to cite our related publication [Reasoning-Grounded Natural Language Explanations for Language Models](https://arxiv.org/abs/2503.11248):
+
+    @misc{cahlik2025reasoninggroundednaturallanguageexplanations,
+          title={Reasoning-Grounded Natural Language Explanations for Language Models}, 
+          author={Vojtech Cahlik and Rodrigo Alves and Pavel Kordik},
+          year={2025},
+          eprint={2503.11248},
+          archivePrefix={arXiv},
+          primaryClass={cs.LG},
+          url={https://arxiv.org/abs/2503.11248}, 
+    }
