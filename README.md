@@ -1,4 +1,6 @@
-# Reasoning-Grounded Natural Language Explanations
+# Reasoning-Grounded Natural Language Explanations for Language Models
+
+This repository contains the code associated with the research paper **Reasoning-Grounded Natural Language Explanations for Language Models** ([website](https://cahlik.net/reasoning-grounded-explanations-paper/), [arXiv](https://arxiv.org/abs/2503.11248), [PDF](https://arxiv.org/pdf/2503.11248)).
 
 ## Structure of the repository
 
@@ -16,13 +18,15 @@
 
 ## Datasets
 
+We recommend downloading the associated datasets from our [Zenodo repository](https://zenodo.org/uploads/15149693). Alternatively, you may use the following Google Drive links:
+
 * [Logistic regression datasets](https://drive.google.com/file/d/1reU1v5DQGVMhFS8Or1RW87rdTwrGr6jK/view?usp=sharing) (in the paper, n_inputs_8/dataset_0 was used)
 * [Decision tree datasets](https://drive.google.com/file/d/16qJHCcmJJMQXNky059h__Hxmz8vogKWr/view?usp=sharing) (in the paper, n_inputs_2_depth_6/dataset_0 was used; the actual tree depths are deeper by 1 than what is stated in the dataset name)
 * [Natural language decision tree dataset](https://drive.google.com/file/d/1teOGNq8_wfcC0FhDtnQ0sZC7HkAWrqb8/view?usp=sharing)
 
 ## Citing
 
-In case you find this repository or datasets helpful, feel free to cite our related publication [Reasoning-Grounded Natural Language Explanations for Language Models](https://arxiv.org/abs/2503.11248):
+In case you find this repository or datasets helpful, feel free to cite the [research paper](https://arxiv.org/abs/2503.11248):
 
     @misc{cahlik2025reasoninggroundednaturallanguageexplanations,
           title={Reasoning-Grounded Natural Language Explanations for Language Models}, 
