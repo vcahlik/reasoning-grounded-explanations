@@ -1,6 +1,6 @@
 # Reasoning-Grounded Natural Language Explanations for Language Models
 
-This repository contains the code associated with the research paper **Reasoning-Grounded Natural Language Explanations for Language Models** ([website](https://cahlik.net/reasoning-grounded-explanations-paper/), [arXiv](https://arxiv.org/abs/2503.11248), [PDF](https://arxiv.org/pdf/2503.11248)).
+This repository contains the code associated with the research paper **Reasoning-Grounded Natural Language Explanations for Language Models** ([website](https://cahlik.net/reasoning-grounded-explanations-paper/), [SpringerLink](https://doi.org/10.1007/978-3-032-08327-2_1), [PDF](https://link.springer.com/content/pdf/10.1007/978-3-032-08327-2_1.pdf), [arXiv](https://arxiv.org/abs/2503.11248)).
 
 ## Structure of the repository
 
