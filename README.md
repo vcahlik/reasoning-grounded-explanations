@@ -26,14 +26,15 @@ We recommend downloading the associated datasets from our [Zenodo repository](ht
 
 ## Citing
 
-In case you find this repository or datasets helpful, feel free to cite the [research paper](https://arxiv.org/abs/2503.11248):
+In the case that you find this repository or datasets helpful, feel free to cite the [published paper](https://doi.org/10.1007/978-3-032-08327-2_1):
 
-    @misc{cahlik2025reasoninggroundednaturallanguageexplanations,
-          title={Reasoning-Grounded Natural Language Explanations for Language Models}, 
-          author={Vojtech Cahlik and Rodrigo Alves and Pavel Kordik},
-          year={2025},
-          eprint={2503.11248},
-          archivePrefix={arXiv},
-          primaryClass={cs.LG},
-          url={https://arxiv.org/abs/2503.11248}, 
-    }
+```
+@inproceedings{cahlik2025reasoning,
+  title={Reasoning-grounded natural language explanations for language models},
+  author={Cahlik, Vojtech and Alves, Rodrigo and Kordik, Pavel},
+  booktitle={World Conference on Explainable Artificial Intelligence},
+  pages={3--18},
+  year={2025},
+  organization={Springer}
+}
+```
